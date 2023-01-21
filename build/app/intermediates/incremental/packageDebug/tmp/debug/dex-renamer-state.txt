@@ -1,0 +1,4 @@
+#Sat Jan 21 17:38:48 IST 2023
+base.0=E\:\\Education\\Semesters\\Semester 6\\Winter PEP Classes\\Flutter Projects\\mi_card_flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
