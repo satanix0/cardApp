@@ -1,16 +1,15 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
-# Mi Card
+# My Biznes Card
 
-## Our Goal
+## My Goal
 
-Now that you've seen how to create a Flutter app entirely from scratch, we're going to go further and learn more about how to design user interfaces for Flutter apps.
+After Learning how to create a Flutter app entirely from scratch, I created a simple yet helpfull flutter app that contains my Occupation and Contact Information
 
 ## What you will create
 
-Mi Card is a personal business card. Imagine every time you wanted to give someone your contact details or your business card but you didn't have it on you. Well, now you can get them to download your business card as an app.
+This is a personal business card. Imagine every time you wanted to give someone your contact details or your business card but you didn't have it on you. Well, now you can get them to download your business card as an app.
 
-## What you will learn
+## What did I learn
 
 * How to create Stateless Widgets
 * What is the difference between hot reload and hot refresh and running an app from cold
